@@ -1,0 +1,2 @@
+# fastatool
+this is fastatool
