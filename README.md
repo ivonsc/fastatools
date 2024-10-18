@@ -1,2 +1,2 @@
-# fastatool
-this is fastatool
+# fastatools
+this is fastatools
